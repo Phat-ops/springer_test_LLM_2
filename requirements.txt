@@ -1,0 +1,12 @@
+# Core
+langgraph>=0.2.0
+langchain-core>=0.3.0
+pandas>=2.2.0
+numpy>=1.26.0
+yfinance>=0.2.54
+python-dateutil>=2.9.0
+
+# Dev / Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
+matplotlib>=3.8.0
